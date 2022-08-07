@@ -13,3 +13,7 @@ p{
 	color: #E8F9FD;
 	margin-left: 20px;
 }
+img{
+	width: 50%;
+	border-radius: 10px;
+}
